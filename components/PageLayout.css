@@ -1,0 +1,27 @@
+/* your global css here */
+
+body,
+h1{
+  font-family: 'Raleway', sans-serif;
+  color: navy;
+}
+p{
+    position: center;
+    color: navy;
+  
+  
+}
+body,
+html  {
+  height: 100%;
+}
+.bgimg {
+  background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/5992448-drone-com-camera-controle-remoto-conduzido-voando-para-tirar-fotografia-e-gravacao-video-em-plano-desenho-plano-fundo-ilustracao-vetor.jpg);
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+main .w3-border-grey {
+  margin: auto;
+  width: 40%;
+}
